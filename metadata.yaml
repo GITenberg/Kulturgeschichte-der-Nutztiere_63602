@@ -1,0 +1,26 @@
+_repo: Kulturgeschichte-der-Nutztiere_63602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reinhardt, Ludwig
+    birthdate: 1864
+    deathdate: 1921
+    gutenberg_agent_id: '51607'
+    url: http://www.gutenberg.org/2009/agents/51607
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63602'
+  lccn: '59055147'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic animals -- History'
+- !lcsh 'Livestock -- History'
+- !lcc 'SF'
+- GITenberg
+title: Kulturgeschichte der Nutztiere
+url: http://www.gutenberg.org/ebooks/63602
